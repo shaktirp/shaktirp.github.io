@@ -115,13 +115,15 @@ a:hover, a:active {
   background-repeat: no-repeat;
   background-size: cover;
   height: 500px;
-  content: ""; }
+  content: "";
+  max-width: 1160px;
+  margin: 0 auto; }
 
 .first-banner {
-  background-image: url("/assets/images/banner-1.png"); }
+  background-image: url("/assets/images/AlabamaHills1.jpg"); }
 
 .second-banner {
-  background-image: url("/assets/images/banner-2.png"); }
+  background-image: url("/assets/images/AlabamaHills2.jpg"); }
 
 .projects-page {
   margin-top: 50px; }
